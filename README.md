@@ -1,1 +1,5 @@
-# rouletteAUTO
+# rouletteAUTO 
+
+
+## script qui tourne la roulette automatiquement, fonctionne sur un ecran 1920x1080 (p-e autre resolution pas essayer et flemme)
+### windows + r => cmd puis cd desktop puis python ttt.py, le mdp c'est go. ctrl + c ou souris dans le coin de votre ecran pour arreter le script
