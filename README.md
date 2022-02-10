@@ -1,5 +1,5 @@
 
-
+![imageroulette](https://i.imgur.com/rsMVlpz.png)
 # script qui tourne la roulette automatiquement
 fonctionne sur un ecran 1920x1080 (p-e autre resolution pas essayer et flemme)
 ## Comment lancer le script? 
