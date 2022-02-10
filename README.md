@@ -11,5 +11,3 @@ fonctionne sur un ecran 1920x1080 (p-e autre resolution pas essayer et flemme)
 
 
 
-
-by jawa
